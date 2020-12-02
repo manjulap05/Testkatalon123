@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Orange login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>272352b9-a391-4b06-b59a-1228b82343b1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6224b540-bbf0-4a9d-ac41-ccb4cd030aea</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a6f3a58-6272-42b1-8c38-bf1a2dedea6b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
